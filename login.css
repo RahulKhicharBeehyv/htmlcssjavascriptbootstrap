@@ -1,0 +1,100 @@
+html{
+
+    background-image: url('images/background_image.jpeg')
+}
+
+
+.topdiv
+{
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.headingdiv
+{
+   text-align: center;
+   margin-top: 40px;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+  
+}
+.image
+{
+    display: inline;
+ 
+}
+.heading
+{
+    color: white;
+    font-size: 40px;
+    
+     margin-left: 10px;
+     align-items: center;
+     letter-spacing: 1rem;
+   
+}
+.placeholdertext
+{
+    color: wheat;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    margin-top: 20px;
+  
+   
+}
+
+/* login section */
+.login
+{
+
+    color: white;
+    background-color: white;
+    margin: auto;
+    width: 30%;
+    text-align: center;
+    margin-top: 20px;
+    padding: 15px;
+    /* display: flex; */
+}
+.logInToYourAccount
+{
+    color: black;
+}
+
+/* input {
+    padding: 0.2em; 
+    box-sizing: border-box;
+    width: 100% 
+  }  */
+.checkbox
+{
+    margin: 0%;
+}
+button{
+
+    width: 100%;
+    margin-top: 15px;
+    background-color:#1d1dac;
+    padding: 0%;
+    color: white;
+    height: 30px;
+}
+.footer
+{
+  
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
+.spantext
+{
+    color: white;
+
+}
+.language
+{
+    text-align: right;
+}
